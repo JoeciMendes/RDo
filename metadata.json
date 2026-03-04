@@ -1,0 +1,5 @@
+{
+  "name": "Gestão RDO - Relatório Diário de Obras",
+  "description": "Aplicação para gestão, preenchimento e impressão de Relatórios Diários de Obras (RDO), incluindo checklist e controle de segurança.",
+  "requestFramePermissions": []
+}
